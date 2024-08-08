@@ -5,7 +5,7 @@ I'm a programmer from the UK, currently working in Cybersecurity and brushing up
 I love connecting with others so please don't hesitate to reach out to me on here.
 
 - 🇨 I'm currently learning The C Programming Language! 
-- 🤝 I'm looking to collaborate on anything related to the above! Especially if the target platform is Linux or BSD!
+- 🤝 I'm looking to collaborate on anything related to the above! Especially if the target platform is Linux/BSD!
 - ☎️ Don't hesitate to reach out! I love connecting with others!
 - 📧 How to reach me: Just send me an email!
 - 🤖 Pronouns: she/her
